@@ -2,7 +2,9 @@
 
 This repository provides R scripts implementing the simulation design and estimation procedures described in the accompanying manuscript.
 
-The code reproduces a single simulation run under a longitudinal data-generating process (DGP) and implements multiple causal estimation approaches for time-varying treatments.
+The code reproduces a single simulation run under a longitudinal data-generating process (DGP) and implements multiple causal estimation approaches for time-varying exposures.
+
+An R package version of these methods is currently under development.
 
 ---
 
